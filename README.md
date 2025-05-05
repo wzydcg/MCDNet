@@ -1,4 +1,4 @@
-# D-FaST: Cognitive Signal Decoding with Disentangled Frequency-Spatial-Temporal Attention
+# MCDNet: Morphological-Conditional Dual-view Fusion for 3D Tubular Structure Segmentation
 
 [![stars - D-FaST](https://img.shields.io/github/stars/AdFiFi/D-FaST?style=social)](https://github.com/AdFiFi/D-FaST)
 [![forks - D-FaST](https://img.shields.io/github/forks/AdFiFi/D-FaST?style=social)](https://github.com/AdFiFi/D-FaST)
