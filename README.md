@@ -8,7 +8,7 @@
 
 ## Approach
 
-![MCDNet.jpg](pictures/MCDNet.jpg)
+![MCDNet.jpg](picture/MCDNet.png)
 
 ## Dataset
 
