@@ -29,8 +29,7 @@ For example, ```smr_preprocess()``` in ```data/smr.py``` process BCIC IV-2A to `
 ## Training
 
 ### Default Scripts
-Use default scripts in ```scripts/``` to train any implemented model in ```model/```. 
-All default hyperparameters among these models are tuned for MNRED datasets.
+All default hyperparameters among these models are tuned for RAOS datasets.
 
 Wandb is needed if visualization of training parameters is wanted
 
@@ -39,40 +38,27 @@ Wandb is needed if visualization of training parameters is wanted
 run script like this:
 ```bash
 python main.py \
---model DFaST \
---num_repeat 5 \
---dataset MNRED \
---data_dir /data/MNRED/MNRED.npy \
---sparsity 0.6 \
---batch_size 16 \
---num_epochs 100 \
---frequency 200 \
---num_kernels 64 \
---window_size 30 \
---D 30 \
---p1 8 \
---p2 16 \
---drop_last True \
---num_heads 4 \
+--model Our_UNet \
+--dataset RAOS \
+--batch_size 4 \
+--num_epochs 200 \
 --learning_rate 1e-4 \
 --dropout 0.1 \
---schedule cos \
 --do_train \
 --do_evaluate
 ```
-For other baseline models, more hyperparameter can be specified in ```config.py``` 
-and their own ModelConfig in corresponding model files
 
 ## Dependencies
-- python==3.10
-- braindecode==0.4.85
+- python==3.12
+- opencv-python==4.7.0.68
 - einops
-- mne
-- nilearn==0.9.2
-- ptwt==0.1.7
-- scikit-learn==1.2.1
+- nilearn==0.10.4
+- scikit-learn==1.3.2
 - scipy
-- torch==2.1.0
+- torch==2.3.0
+- pydicom==2.4.4
+- pandas==1.5.3
+- nibabel==5.2.1
 - wandb
 
 ## Citation
