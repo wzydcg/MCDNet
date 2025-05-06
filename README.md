@@ -15,16 +15,13 @@
 
 ## Dataset
 
-Download the BCIC IV-2A and IV-2B dataset from [here](https://www.bbci.de/competition/iv/index.html).
+Download the RAOS dataset from [here](https://github.com/Luoxd1996/RAOS).
 
-Download the ZuCo-TSR dataset from [here](https://osf.io/q3zws/).
+Download the CAS2023 dataset from [here](https://codalab.lisn.upsaclay.fr/competitions/9804#participate-get_starting_kit).
 
-MNRED dataset will be released in the near future.
+Download the MM-WHS dataset from [here](https://mega.nz/folder/UNMF2YYI#1cqJVzo4p_wESv9P_pc8uA).
 
-## Preprocessing Data
-
-Each dataset corresponds to a dataloader and a preprocessing scripts. 
-For example, ```smr_preprocess()``` in ```data/smr.py``` process BCIC IV-2A to ```SMR128.npy``` 
+Download the MSD dataset from [here](http://medicaldecathlon.com/).
 
 ## Training
 
