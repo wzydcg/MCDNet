@@ -1,9 +1,9 @@
 # MCDNet: Morphological-Conditional Dual-view Fusion for 3D Tubular Structure Segmentation
 
-[![stars - D-FaST](https://img.shields.io/github/stars/AdFiFi/D-FaST?style=social)](https://github.com/AdFiFi/D-FaST)
-[![forks - D-FaST](https://img.shields.io/github/forks/AdFiFi/D-FaST?style=social)](https://github.com/AdFiFi/D-FaST)
-![language](https://img.shields.io/github/languages/top/AdFiFi/D-FaST?color=lightgrey)
-![license](https://img.shields.io/github/license/AdFiFi/D-FaST)
+[![stars - D-FaST](https://img.shields.io/github/stars/wzydcg/MCDNet?style=social)](https://github.com/wzydcg/MCDNet)
+[![forks - D-FaST](https://img.shields.io/github/forks/wzydcg/MCDNet?style=social)](https://github.com/wzydcg/MCDNet)
+![language](https://img.shields.io/github/languages/top/wzydcg/MCDNet?color=lightgrey)
+![license](https://img.shields.io/github/license/wzydcg/MCDNet)
 ---
 
 ## Approach
