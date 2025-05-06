@@ -90,4 +90,4 @@ and their own ModelConfig in corresponding model files
 
 ## Contact Us
 
-If you are interested to leave a message, please feel free to send any email to us at ```chenweiguo@nudt.edu.cn```
+If you are interested to leave a message, please feel free to send any email to us at ```wangzhiyan24@nudt.edu.cn```
