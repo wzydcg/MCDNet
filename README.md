@@ -8,7 +8,7 @@
 
 ## Approach
 
-![D-FaST.jpg](pictures/D-FaST.jpg)
+![MCDNet.jpg](pictures/MCDNet.jpg)
 
 ## Dataset
 
