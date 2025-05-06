@@ -6,6 +6,8 @@
 ![license](https://img.shields.io/github/license/wzydcg/MCDNet)
 ---
 
+## Introduction
+![Intro.png](picture/Intro.png)
 ## Approach
 
 ![MCDNet.png](picture/MCDNet.png)
