@@ -75,16 +75,16 @@ and their own ModelConfig in corresponding model files
 ## Citation
 
 ```
-@ARTICLE{10445385,
-  author={Chen, WeiGuo and Wang, Changjian and Xu, Kele and Yuan, Yuan and Bai, Yanru and Zhang, Dongsong},
-  journal={IEEE Transactions on Cognitive and Developmental Systems}, 
-  title={D-FaST: Cognitive Signal Decoding with Disentangled Frequency-Spatial-Temporal Attention}, 
-  year={2024},
+@ARTICLE{
+  author={Wang, Zhiyan and Wang, Changjian and Xu, Kele and Tang, Zhongshun and Zhuang, Yan and Zou, Jiani and Liu, Fangyi},
+  journal={}, 
+  title={MCDNet: Morphological-Conditional Dual-view Fusion for 3D Tubular Structure Segmentation}, 
+  year={2025},
   volume={},
   number={},
-  pages={1-18},
-  keywords={Feature extraction;Frequency-domain analysis;Decoding;Electroencephalography;Data mining;Brain modeling;Time series analysis;Cognitive Language Processing (CLP);Cognitive Signal Decoding (CSD);Frequency-spatial-temporal domain attention},
-  doi={10.1109/TCDS.2024.3370261}}
+  pages={},
+  keywords={Tubular Structure Segmentation;Conditional Convolution;Dual-view Architecture},
+  doi={}}
 
 ```
 
