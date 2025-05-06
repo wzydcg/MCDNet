@@ -8,7 +8,10 @@
 
 ## Approach
 
-![MCDNet.jpg](picture/MCDNet.png)
+![MCDNet.png](picture/MCDNet.png)
+
+## Morphological-Conditional Convolution
+![MCConv.png](picture/MCConv.png)
 
 ## Dataset
 
